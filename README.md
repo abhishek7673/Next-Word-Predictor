@@ -12,3 +12,10 @@ As we all know that whenever we search something on browser, youtube, facebook, 
 Dataset is provide with this project itself. else you can download: https://www.gutenberg.org/browse/scores/top
 
 # We have used LSTM 
+Long Short-Term Memory (LSTM) is a type of Recurrent Neural Network (RNN) that is specifically designed to handle sequential data, such as time series, speech, and text. LSTM networks are capable of learning long-term dependencies in sequential data, which makes them well suited for tasks such as language translation, speech recognition, and time series forecasting.
+
+# THE CODE THAT I HAVE UPLOADED HERE IS WITHOUT THE TRAINED MODEL SO, YOU NEED TO TRAIN THE MODEL BY YOUR OWN.
+
+# Applications:
+- Optimized search
+- 
