@@ -19,3 +19,4 @@ Long Short-Term Memory (LSTM) is a type of Recurrent Neural Network (RNN) that i
 # Applications:
 - Optimized search
 - 
+![Screenshot 2023-09-08 153816](https://github.com/abhishek7673/Next-Word-Predictor/assets/98072917/38dbf9d1-b0fb-45d1-8147-9d474311a204)
